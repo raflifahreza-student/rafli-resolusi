@@ -2,8 +2,13 @@ RENCANA KONTENT RAFLI
 
 BIKIN VLOG MAKANAN DI TIKTOK
 * Detail rencana
-  ^coba fitur 2.1
-  ^coba fitur 2.2
+  ^ coba-fitur-1.1
+  ^ coba fitur 1.2
+BIKIN VIDEO TIKTOK TENTANG PROGRAM
+RENCANA 3
+RENCANA 4
+  ^ coba fitur 2.1
+  ^ coba fitur 2.2
 BIKIN VIDEO TIKTOK TENTANG PROGRAM
 RENCANA 3
 RENCANA 4
